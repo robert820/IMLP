@@ -17,3 +17,6 @@ This is NTUTRAIN IMLP course.
 &nbsp;&nbsp;&nbsp;&nbsp;[4_Categorical_features_實戰.ipynb](https://github.com/robert820/IMLP/blob/main/Unit03/4_Categorical_features_%E5%AF%A6%E6%88%B0.ipynb)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[5_Prepocessing_實戰.ipynb](https://github.com/robert820/IMLP/blob/main/Unit03/5_Prepocessing_%E5%AF%A6%E6%88%B0.ipynb)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6_scikit_learn_Basic_實戰.ipynb](https://github.com/robert820/IMLP/blob/main/Unit03/6_scikit_learn_Basic_%E5%AF%A6%E6%88%B0.ipynb)
+
+### 作業4： ###
+&nbsp;&nbsp;&nbsp;&nbsp;[Linear Regression_HW.ipynb](https://github.com/robert820/IMLP/blob/main/Unit04/Linear%20Regression_HW.ipynb)<br>
