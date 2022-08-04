@@ -20,3 +20,7 @@ This is NTUTRAIN IMLP course.
 
 ### 作業4： ###
 &nbsp;&nbsp;&nbsp;&nbsp;[Linear Regression_HW.ipynb](https://github.com/robert820/IMLP/blob/main/Unit04/Linear%20Regression_HW.ipynb)<br>
+
+### 作業5： ###
+&nbsp;&nbsp;&nbsp;&nbsp;[02_Logistic regression實戰.ipynb](https://github.com/robert820/IMLP/blob/main/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[SVM實戰.ipynb](https://github.com/robert820/IMLP/blob/main/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb)<br>
