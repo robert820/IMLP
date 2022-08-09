@@ -24,3 +24,8 @@ This is NTUTRAIN IMLP course.
 ### 作業5： ###
 &nbsp;&nbsp;&nbsp;&nbsp;[02_Logistic regression實戰.ipynb](https://github.com/robert820/IMLP/blob/main/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[SVM實戰.ipynb](https://github.com/robert820/IMLP/blob/main/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb)<br>
+
+### 作業6： ###
+&nbsp;&nbsp;&nbsp;&nbsp;[1.3_ConfusionMatrix_實戰.ipynb](https://github.com/robert820/IMLP/blob/main/Unit06/1.3_ConfusionMatrix_%E5%AF%A6%E6%88%B0.ipynb)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[2.3_Ensemble實戰.ipynb](https://github.com/robert820/IMLP/blob/main/Unit06/2.3_Ensemble%E5%AF%A6%E6%88%B0.ipynb)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[預測的結果截圖.png](https://github.com/robert820/IMLP/blob/main/Unit06/%E9%A0%90%E6%B8%AC%E7%9A%84%E7%B5%90%E6%9E%9C%E6%88%AA%E5%9C%96.png)
